@@ -13,4 +13,10 @@ Here are some of the important questions which were answered through this report
 •	What is the ‘Total Sales’ Amount’ on ‘Monthly YoY’?
 
 
+Here is the preview of the Complete report which consists of different charts and visuals. 
+
+https://github.com/Sreekar-Kilaru/SuperStore-Sales-Dashboard/assets/153851577/abbdad7c-7b41-4601-a221-f22013b8821b
+
+
+
 
